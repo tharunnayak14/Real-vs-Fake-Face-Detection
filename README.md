@@ -26,10 +26,12 @@ We can clearly observe these images are not easy to classify using the naked eye
 </br>
 ## Training curves for 100 epochs
 </br>
-![Screenshot 2022-03-09 121338](https://user-images.githubusercontent.com/52671445/157386912-baac65bc-02b3-4d37-b138-08657110efa3.jpg)
+![Screenshot 2022-03-09 121338](https://user-images.githubusercontent.com/52671445/157387936-20629704-55c5-43a6-a070-cb146c7130f9.jpg)
+
 </br>
 ## Model predictions visualized
 </br>
 </br>
-![Screenshot 2022-03-09 121323](https://user-images.githubusercontent.com/52671445/157387856-5fcad9f3-f24a-483d-b410-ecd5751a6348.jpg)
+
+![Screenshot 2022-03-09 121323](https://user-images.githubusercontent.com/52671445/157387947-8ca953c4-3dc9-45d9-9cde-daed9dc0c01c.jpg)
 
