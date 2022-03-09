@@ -26,9 +26,9 @@ We can clearly observe these images are not easy to classify using the naked eye
 </br>
 ## Training curves for 100 epochs
 </br>
+
 ![Screenshot 2022-03-09 121338](https://user-images.githubusercontent.com/52671445/157387936-20629704-55c5-43a6-a070-cb146c7130f9.jpg)
 
-</br>
 ## Model predictions visualized
 </br>
 </br>
