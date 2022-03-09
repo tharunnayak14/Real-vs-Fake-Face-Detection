@@ -21,13 +21,15 @@ Below are some of the fake images from the data set
 </br>
 We can clearly observe these images are not easy to classify using the naked eye
 </br>
+</br>
 ![Screenshot 2022-03-09 121252](https://user-images.githubusercontent.com/52671445/157386908-4c9bb4d4-76dc-4b74-bd1b-24dd99aa6510.jpg)
 </br>
-Training curves for 100 epochs
+## Training curves for 100 epochs
 </br>
 ![Screenshot 2022-03-09 121338](https://user-images.githubusercontent.com/52671445/157386912-baac65bc-02b3-4d37-b138-08657110efa3.jpg)
 </br>
 ## Model predictions visualized
 </br>
 </br>
-![Screenshot 2022-03-09 121323](https://user-images.githubusercontent.com/52671445/157386919-33387e66-39af-4deb-9c79-3720b6b6a542.jpg)
+![Screenshot 2022-03-09 121323](https://user-images.githubusercontent.com/52671445/157387856-5fcad9f3-f24a-483d-b410-ecd5751a6348.jpg)
+
