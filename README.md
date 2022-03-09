@@ -10,12 +10,13 @@ Number of "Fake" faces: 700
 Number of "Real" faces: 589
 
 The data.csv contains the images Id and the corresponding label.
-
+## Real images
 Below are some of the real images from the data set
 </br>
 
 ![Screenshot 2022-03-09 121507](https://user-images.githubusercontent.com/52671445/157387107-5e515830-dd2f-4ec6-ae1d-b8a386227d13.jpg)
 </br>
+## Fake images
 Below are some of the fake images from the data set
 </br>
 We can clearly observe these images are not easy to classify using the naked eye
@@ -26,7 +27,7 @@ Training curves for 100 epochs
 </br>
 ![Screenshot 2022-03-09 121338](https://user-images.githubusercontent.com/52671445/157386912-baac65bc-02b3-4d37-b138-08657110efa3.jpg)
 </br>
-Model predictions visualized
+## Model predictions visualized
 </br>
 </br>
 ![Screenshot 2022-03-09 121323](https://user-images.githubusercontent.com/52671445/157386919-33387e66-39af-4deb-9c79-3720b6b6a542.jpg)
