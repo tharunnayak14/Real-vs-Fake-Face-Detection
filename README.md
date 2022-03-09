@@ -11,7 +11,8 @@ Number of "Real" faces: 589
 
 The data.csv contains the images Id and the corresponding label.
 
-![Screenshot 2022-03-09 121219](https://user-images.githubusercontent.com/52671445/157386901-24a94eec-369b-4091-8d58-83639e0d3939.jpg)
+![Screenshot 2022-03-09 121507](https://user-images.githubusercontent.com/52671445/157387107-5e515830-dd2f-4ec6-ae1d-b8a386227d13.jpg)
+
 
 
 ![Screenshot 2022-03-09 121252](https://user-images.githubusercontent.com/52671445/157386908-4c9bb4d4-76dc-4b74-bd1b-24dd99aa6510.jpg)
